@@ -1,7 +1,7 @@
 .progress-circle {
   position: relative;
-  width: 60%;
-  height: 120px;
+  width: 100px;
+  height: 100px;
 }
 
 .progress-circle svg {
