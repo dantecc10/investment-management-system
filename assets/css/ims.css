@@ -52,3 +52,7 @@ a.basic-brand-colors, button.basic-brand-colors, .btn.btn-primary.basic-brand-co
   border-radius: 15px;
 }
 
+.bg-primary.force-black {
+  background-color: rgba(0, 0, 0,1) !important;
+}
+
