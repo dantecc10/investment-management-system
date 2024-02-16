@@ -46,8 +46,9 @@ custom-paragraph {
   color: black !important;
 }
 
-.basic-brand-colors {
+a.basic-brand-colors, button.basic-brand-colors, .btn.btn-primary.basic-brand-colors {
   background-color: black !important;
   color: white !important;
+  border-radius: 15px;
 }
 
