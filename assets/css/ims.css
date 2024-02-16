@@ -36,3 +36,18 @@
   max-height: 200px !important;
 }
 
+custom-paragraph {
+  text-align: justify !important;
+  text-indent: 5% !important;
+}
+
+.basic-inverse-brand-colors {
+  background-color: white !important;
+  color: black !important;
+}
+
+.basic-brand-colors {
+  background-color: black !important;
+  color: white !important;
+}
+
